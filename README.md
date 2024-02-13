@@ -1,2 +1,2 @@
 # PPL
-Ini tempat project  PPL ku, Segera..
+Ini tempat project  PPL ku, Selesai
